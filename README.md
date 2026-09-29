@@ -1,5 +1,5 @@
 # College-demo-
 this is my demo git repo
 
-Author - Shub
+Author - Shub <br>
 hello world
